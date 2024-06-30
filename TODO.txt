@@ -1,5 +1,4 @@
 FlyingAway
 Progress Eating
-next Day value taking
 Reset Day not reseting whole game
 PowerUps

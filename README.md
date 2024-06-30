@@ -5,6 +5,7 @@ Pigeon Pinchers is game created on GameJam 2024 28.06.2024-30.06-2024 using Unre
 - Mythology
 
 Gameplaywise there is angle top down view which player controls using WSAD or moving by mouse to edge of the screen.
+
 #Game Mechanics
 Main points are:
 - Planting flowers by clicking on available ground and selecting from UI unlocked seeds.
